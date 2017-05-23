@@ -8,7 +8,7 @@
 
 <span class="c0">Before you go through this tutorial, you should have at least a basic understanding of Ionic 3 concepts. You must also already have Ionic 3 set up on your machine.</span>
 
-<span class="c6">If you’re not familiar with Ionic 3 already, I’d recommend reading my</span> <span class="c10">[Getting started with ZMS and Ionic 3](https://www.google.com/url?q=https://www.why-me.tech/getting-started-with-ionic-3-and-zms/&sa=D&ust=1495531510438000&usg=AFQjCNFliprrSh3Jbar9GVGU8kLj_1zoRQ)</span><span class="c0"> first to get up and running and understand the basic concepts.</span>
+<span class="c6">If you’re not familiar with Ionic 3 already, I’d recommend reading my</span> <span class="c10">[Getting started with ZMS and Ionic 3](https://www.why-me.tech/getting-started-with-ionic-3-and-zms/)</span><span class="c0"> first to get up and running and understand the basic concepts.</span>
 
 # <span class="c4">ZMS and Eclipse</span>
 
@@ -43,7 +43,7 @@ service nosql_db = gda(__default).forbiddenVerbs(__all);</span>
 
 <span class="c0">We need to deploy it on ZetaPush servers !</span>
 
-<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 213.33px; height: 42.67px;">![](images/image1.png)</span>
+<span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 213.33px; height: 42.67px;">![](https://camo.githubusercontent.com/3d0bbc36dfb9895a91371783b34d37d061848cbf/68747470733a2f2f7777772e7768792d6d652e746563682f77702d636f6e74656e742f75706c6f6164732f323031372f30342f6f7574696c735a4d532e706e67)</span>
 
 <span class="c0">Click on the red rocket icon.</span>
 
